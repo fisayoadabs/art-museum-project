@@ -1,0 +1,21 @@
+{
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "artmuseum-db-creation",
+            "database": "artmuseum",
+            "username": "root",
+            "password": "Sidrah01!",
+            "connectionTimeout": 1000
+        }
+    ]
+}
